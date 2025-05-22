@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/file/d/1uPY60lDMCl7Zoy0YhWdWxuGz9K-5ZSmy)
+![Logo](https://github.com/jorgediaz11/jorgediaz11/blob/main/LogoJDiaz.png)
 
 ## 🚀 Jorge Diaz
 I'm a full stack developer...
