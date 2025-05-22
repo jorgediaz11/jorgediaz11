@@ -1,6 +1,6 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://drive.google.com/file/d/1uPY60lDMCl7Zoy0YhWdWxuGz9K-5ZSmy/view?usp=sharing)
 
-## 🚀 About Me
+## 🚀 Jorge Diaz
 I'm a full stack developer...
 
 ## 🛠 Skills
