@@ -1,4 +1,4 @@
-[![Logo](https://github.com/jorgediaz11/jorgediaz11/blob/main/LogoJDiaz.png)](https://github.com/jorgediaz11)
+[![Logo](https://github.com/jorgediaz11/jorgediaz11/blob/main/LogoJDiaz02.png)](https://github.com/jorgediaz11)
 
 ## 🚀 Hey, I'm Jesús Jorge Diaz Tito!
 
