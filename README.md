@@ -23,13 +23,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgediaz11&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-
-### 📊 GitHub Stats 02
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgediaz11&show_icons=true&theme=dracula&hide_border=true)](https://github.com/jorgediaz11)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgediaz11&theme=dracula)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
