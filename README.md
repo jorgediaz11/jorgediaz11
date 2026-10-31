@@ -26,3 +26,20 @@
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgediaz11&theme=dracula)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+### 📊 GitHub Stats & Activity
+
+<!-- Contador de visitas de perfil (Siempre funciona) -->
+![Profile Views](https://komarev.com/ghpvc/?username=jorgediaz11&color=blue&style=flat-square)
+
+<!-- Badges de tecnologías principales (Alternativa visual premium y 100% estable) -->
+<br><br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/jorgediaz11)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/jorgediaz11)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/jorgediaz11)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jorgediaz11)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/jorgediaz11)
+
+<br>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
