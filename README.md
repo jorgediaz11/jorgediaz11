@@ -23,10 +23,6 @@
 
 ![Most Used Languages](https://github-readme-stats-ten-rust.vercel.app/api/top-langs/?username=jorgediaz11&layout=compact&theme=dracula)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-### 📊 GitHub Stats
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgediaz11&show_icons=true&theme=dracula&hide_border=true)](https://github.com/jorgediaz11)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgediaz11&theme=dracula&hide_border=true)](https://git.io/streak-stats)
