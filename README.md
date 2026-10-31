@@ -26,10 +26,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-### 📊 GitHub Stats 2
+### 📊 GitHub Stats 02
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgediaz11&show_icons=true&theme=dracula&hide_border=true)](https://github.com/jorgediaz11)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgediaz11&layout=compact&theme=dracula&hide_border=true&v=2)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgediaz11&theme=dracula)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
